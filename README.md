@@ -1,3 +1,2 @@
 Hi, I'm Stanley
-A student who is bad at coding but still loves to code.
-
+Have experience in ML, frontend, backend, crawler experience.
